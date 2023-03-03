@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ToDO-List-by-Redux-from-lecture-notes/static/css/main.5763847e.css",
-    "main.js": "/ToDO-List-by-Redux-from-lecture-notes/static/js/main.0fa50022.js",
+    "main.js": "/ToDO-List-by-Redux-from-lecture-notes/static/js/main.f37bbd4d.js",
     "index.html": "/ToDO-List-by-Redux-from-lecture-notes/index.html",
     "main.5763847e.css.map": "/ToDO-List-by-Redux-from-lecture-notes/static/css/main.5763847e.css.map",
-    "main.0fa50022.js.map": "/ToDO-List-by-Redux-from-lecture-notes/static/js/main.0fa50022.js.map"
+    "main.f37bbd4d.js.map": "/ToDO-List-by-Redux-from-lecture-notes/static/js/main.f37bbd4d.js.map"
   },
   "entrypoints": [
     "static/css/main.5763847e.css",
-    "static/js/main.0fa50022.js"
+    "static/js/main.f37bbd4d.js"
   ]
 }
